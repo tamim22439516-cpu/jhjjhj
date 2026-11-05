@@ -18,8 +18,8 @@ npm -v
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/tamim22439516-cpu/trtrrt.git
-cd trtrrt
+git clone https://github.com/tamim22439516-cpu/jhjjhj.git
+cd jhjjhj
 npm install
 ```
 
