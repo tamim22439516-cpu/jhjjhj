@@ -1752,7 +1752,7 @@
       "activeSessionToken": "47d28a1d07fb796ce4372d8dcbdb24c5a467b2de28c47c82b63f4db1d8248a49",
       "isOfficialReferral": true,
       "id": "emp-a3beaef3",
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "approvedAt": "2026-11-02T09:34:24.148Z",
       "wallet": {
         "availableBalance": 120,
@@ -1806,7 +1806,7 @@
         "totalEarnings": 0,
         "totalWithdrawn": 0
       },
-      "updatedAt": "2026-11-05T02:37:12.493Z"
+      "updatedAt": "2026-11-05T02:53:28.842Z"
     },
     {
       "id": "emp-3fc1549d",
@@ -1839,7 +1839,7 @@
         "totalEarnings": 0,
         "totalWithdrawn": 0
       },
-      "updatedAt": "2026-11-05T02:37:12.493Z"
+      "updatedAt": "2026-11-05T02:53:28.842Z"
     },
     {
       "district": "Chattogram",
@@ -1856,7 +1856,7 @@
       "registeredAt": "2026-10-17T16:55:22.642Z",
       "thana": "Chattogram Sadar",
       "email": "b@gmail.com",
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "status": "APPROVED",
       "referralCommissionRate": 10,
       "passwordHash": "e0bc60c82713f64ef8a57c0c40d02ce24fd0141d5cc3086259c19b1e62a62bea",
@@ -1877,7 +1877,7 @@
       "isOfficialReferral": false,
       "referralMaxBonusCap": 10,
       "thana": "Kotwali",
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "referralOwnerName": "তাওজুন কোম্পানি (Direct)",
       "email": "editportfolio.editor@gmail.com",
       "status": "APPROVED",
@@ -1908,7 +1908,7 @@
       "district": "Gazipur",
       "referralMaxBonusCap": 10,
       "resellerMargin": 0,
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "isOfficialReferral": true,
       "isPaidSubscription": true,
       "referralOwnerId": "OFFICIAL_TAWZOON",
@@ -1940,7 +1940,7 @@
       "registeredAt": "2026-10-10T00:00:00.000Z",
       "role": "EMPLOYEE",
       "referralOwnerPhone": "01722439516",
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "referralCommissionRate": 10,
       "subscriptionStatus": "trial",
       "status": "APPROVED",
@@ -1984,7 +1984,7 @@
       "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
       "id": "emp-c",
       "isPaidSubscription": false,
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "isOfficialReferral": false,
       "registeredAt": "2026-10-10T00:00:00.000Z",
       "status": "APPROVED",
@@ -2023,7 +2023,7 @@
       "registeredAt": "2026-10-10T00:00:00.000Z",
       "phone": "01700122333",
       "isPaidSubscription": false,
-      "updatedAt": "2026-11-05T02:37:12.493Z"
+      "updatedAt": "2026-11-05T02:53:28.842Z"
     },
     {
       "wallet": {
@@ -2032,7 +2032,7 @@
         "totalWithdrawn": 0,
         "availableBalance": 320
       },
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "id": "emp-d82777a0",
       "isOfficialReferral": false,
       "role": "EMPLOYEE",
@@ -2084,7 +2084,7 @@
       "approvedAt": "2026-10-22T12:20:04.463Z",
       "passwordHash": "51b90eb5fa848289924e22172244473a2c6adbfe885c81e11af5aeda3544a2ea",
       "isOfficialReferral": true,
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "id": "emp-f8a41476",
       "referralMaxBonusCap": 10,
       "referenceCode": "TN-REF-81494",
@@ -2104,7 +2104,7 @@
       "referralCommissionRate": 10,
       "subscriptionStatus": "trial",
       "referredBy": "TN-REF-23344",
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "referralOwnerId": "emp-01f10374",
       "reference": "TN-REF-23344",
       "email": "shahalinexus@gmail.com",
@@ -2131,7 +2131,7 @@
       "isOfficialReferral": false
     },
     {
-      "updatedAt": "2026-11-05T02:37:12.493Z",
+      "updatedAt": "2026-11-05T02:53:28.842Z",
       "district": "Dhaka",
       "registeredAt": "2026-10-10T00:00:00.000Z",
       "subscriptionStatus": "exempt",
@@ -11433,7 +11433,7 @@
   },
   "syncOutboxQueue": [
     {
-      "id": "outbox-b8cd730d",
+      "id": "outbox-06904885",
       "colName": "employees",
       "payload": {
         "deviceFingerprint": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
@@ -11447,7 +11447,7 @@
         "activeSessionToken": "47d28a1d07fb796ce4372d8dcbdb24c5a467b2de28c47c82b63f4db1d8248a49",
         "isOfficialReferral": true,
         "id": "emp-a3beaef3",
-        "updatedAt": "2026-11-05T02:37:12.493Z",
+        "updatedAt": "2026-11-05T02:53:28.842Z",
         "approvedAt": "2026-11-02T09:34:24.148Z",
         "wallet": {
           "availableBalance": 120,
@@ -11470,8 +11470,8 @@
         "referralOwnerId": "OFFICIAL_TAWZOON",
         "district": "Lalmonirhat"
       },
-      "createdAt": "2026-11-05T02:37:17.413Z",
-      "retryCount": 23,
+      "createdAt": "2026-11-05T02:53:33.672Z",
+      "retryCount": 25,
       "lastError": "Outbox write timeout"
     }
   ],
